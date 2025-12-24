@@ -1,0 +1,1 @@
+ed8d84055c74fd97db1e9f6435e7bcb748a4a574a13996e5355e0270d06a5d7b  sing-box-1.12.13-linux-amd64.tar.gz
